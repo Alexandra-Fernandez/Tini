@@ -1,0 +1,88 @@
+* {
+	font-family: Roboto;
+}
+body {
+	background-color: #EAEAE9;
+}
+.container {
+	background-color: #FCCE09;
+	width: 100%;
+	height: 700px;
+}
+a {
+	text-decoration: none;
+	color: #FFFFFF;
+	padding: 20px;
+}
+nav {
+	padding-top: 60px;
+	padding-left: 800px;
+}
+.título {
+	color: #FFFFFF;
+	font-size: 20px;
+	padding-top: 250px;
+	padding-left: 600px;
+}
+.botón {
+	position: absolute;
+	width: 100px;
+	height: 50px;
+	background-color: #FCBA43;
+	border: 2px solid #FCBC3B;
+	top: 80px;
+	left: 200px;
+}
+
+.súmate {
+	padding-top: 15px;
+}
+
+.caja {
+	background-color: #FFFFFF;
+	width: 100%;
+	height: 550px;
+	padding-bottom: 20px;
+}
+.texto {
+	width: 450px;
+	color: #898582;
+	padding-left: 20px;
+}
+
+img {
+	width: 300px !important;
+	height: 300px;
+	padding-left: 90px;
+	padding-top: 20px;
+}
+.leer {
+	background-color: #FCBA43;
+	width: 120px;
+	height: 50px;
+	position: relative;
+	left: 180px;
+}
+.cuadrado {
+	padding-top: 15px;
+}
+
+.pie {
+	background-color: #262624;
+	width: 100%;
+	height: 90px
+}
+.laboratoria {
+	color: white;
+	padding-top: 20px;
+	padding-left: 170px;
+}
+section {
+	padding-bottom: 50px;
+}
+footer {
+	padding-top: 560px;
+}
+
+
+
